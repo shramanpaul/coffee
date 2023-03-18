@@ -1,0 +1,67 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/2389930.jpg);
+    background-size: cover;
+    padding: 20px;
+}
+section{
+    padding: 20px;
+ 
+}
+h1{ padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:xx-large;
+    text-align:center;
+}
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    text-align:center;
+}
+h5{
+    text-align:center;
+}
+div{
+    background-color: burlywood;
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 70px;
+    padding-right: 70px;
+
+}
+hr{
+    height: 3px;
+    background-color: rgba(182, 9, 9, 0.9);
+    margin:5px ;
+    border-color: rgba(182, 9, 9, 0.9);
+}
+article p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+.flavor{ 
+    text-align: left;
+    width: 75%;
+   
+}
+.price{
+    text-align: right;
+    width: 25%;
+       }
+footer{
+    text-align: center;
+}
+a{
+    color: black;
+}
+a :visited{
+    color: rgba(166, 56, 56, 0.9);
+}
+a :active{
+    color: rgba(0, 0, 255, 1);
+}
+a :hover{
+    color: white;
+}
